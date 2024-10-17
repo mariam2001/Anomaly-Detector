@@ -43,3 +43,5 @@ The code allows customization of various parameters within the `main.py` script.
   * `anomaly_magnitude`: Magnitude of the anomaly deviations.
   * `warmup_period`: Number of initial data points used for model training.
   * `model`: The anomaly detection model (currently uses LOF, can be replaced with IsolationForest)
+
+I welcome contributions from the community to further refine and improve this code.
