@@ -14,13 +14,9 @@ pip install numpy matplotlib scikit-learn
 
 1. Clone repository
 ```bash
-git clone [https://github.com/mariam2001/real-time-anomaly-detection.git](https://github.com/mariam2001/real-time-anomaly-detection.git)
+git clone https://github.com/mariam2001/Anomaly-Detector.git
 ```
-2. Navigate to project directory
-```bash
-cd real-time-anomaly-detection
-```
-3. Run the script
+2. Run the script
 ```bash
 python main.py
 ```
